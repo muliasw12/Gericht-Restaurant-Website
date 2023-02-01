@@ -1,3 +1,10 @@
+# Gericht Restaurant Website
+
+![gericht-restaurant](https://github.com/muliasw12/Gericht-Restaurant-Website/blob/master/gericht-restaurant.png?raw=true)
+
+Technology that continues to develop makes food entrepreneurs more innovative in promoting their wares. 
+One of them is by using the website. In this project I created a restaurant landing page using React JS.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
